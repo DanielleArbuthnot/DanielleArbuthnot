@@ -9,7 +9,7 @@
     <li>Manual input of data into arrays</li>
     <li>Basic data analysis, including cleaning of data and use of loops and boolean functions
     <li>Data visualisation (e.g. graphs)</li>
-    <li>Use of packages: MunPy, Pandas, Sklearn, Matplotlib</li>
+    <li>Use of packages: NumPy, Pandas, Sklearn, Matplotlib</li>
     <li>Use of IDEs: Spyder, Jupyter</li>
   </ul>
 
