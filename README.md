@@ -3,7 +3,15 @@
 <b> I am a bioscientist and have been working in diagnostic histology for the past 10 years but am now looking to get coding experience in data science and systems biology. 
 
 <h2> 🌱 Current Learning </h2>
-- <b> Python
+  <h3> Python</h3>
+  <ul>
+    <li>Importing data from spreadsheets</li>
+    <li>Manual input of data into arrays</li>
+    <li>Basic data analysis, including cleaning of data and use of loops and boolean functions
+    <li>Data visualisation (e.g. graphs)</li>
+    <li>Use of packages: MunPy, Pandas, Sklearn, Matplotlib</li>
+    <li>Use of IDEs: Spyder, Jupyter</li>
+  </ul>
 
 <h2> 🔭 Recent Projects </h2>
 
