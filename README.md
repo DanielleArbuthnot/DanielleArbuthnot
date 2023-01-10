@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Danielle!
+
+<b> I am a bioscientist and have been working in diagnostic histology for the past 10 years but am now looking to get coding experience in data science and systems biology. 
+
+<h2> 🌱 Current Learning </h2>
+- <b> Python
+
+<h2> 🔭 Recent Projects </h2>
 
 <!--
 **DanielleArbuthnot/DanielleArbuthnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
